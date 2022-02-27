@@ -1,0 +1,7 @@
+﻿  DX3D.cpp
+C:\Users\micha\Desktop\Lab4_Program_Bazowy\Tutorial06\DX3D.cpp(684,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Desktop\Lab4_Program_Bazowy\Tutorial06\DX3D.cpp(684,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Desktop\Lab4_Program_Bazowy\Tutorial06\DX3D.cpp(684,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Desktop\Lab4_Program_Bazowy\Tutorial06\DX3D.cpp(706,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Desktop\Lab4_Program_Bazowy\Tutorial06\DX3D.cpp(707,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Tutorial06_2012.vcxproj -> C:\Users\micha\Desktop\Lab4_Program_Bazowy\Debug\DX3D.exe

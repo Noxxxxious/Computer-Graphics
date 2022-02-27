@@ -1,0 +1,2 @@
+C:\Users\micha\Desktop\Lab4_Program_Bazowy\Debug\Shader_PS.cso
+C:\Users\micha\Desktop\Lab4_Program_Bazowy\Debug\Shader_VS.cso
